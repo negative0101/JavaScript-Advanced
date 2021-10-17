@@ -27,7 +27,7 @@ function solve(tickets, criter) {
     }
     return ticketObj
 }
-
+//Needs refactoring
 
 solve(['Philadelphia|94.20|available',
     'New York City|95.99|available',
